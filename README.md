@@ -1,8 +1,8 @@
-Employee Management System
+## Employee Management System
 The Employee Management System is a comprehensive solution for managing employee records and payroll. It features two main modules: Admin and Employee.
 
-Features
-Admin Module
+# Features
+# Admin Module
 Register Employee: Admins can add new employees to the system.
 Update Employee: Admins can update existing employee details.
 Delete Employee: Admins can remove employees from the system.
@@ -18,10 +18,7 @@ Git
 Steps
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/employeemanagementsystem.git
-Backend Setup:
+
 
 Navigate to the backend directory:
 
@@ -69,7 +66,7 @@ Access the admin portal via /admin.
 Use your admin credentials to log in.
 Register Employee:
 
-java
+## java
 Copy code
 // Spring Boot Controller to register a new employee
 @RestController
